@@ -1,0 +1,98 @@
+/*highlesht class*/
+
+.highlight{
+
+	color: blue;
+}
+
+.highlight2{
+color: green;
+}
+
+/*branding class*/
+
+
+.branding{
+
+	font-size: 15px;
+}
+
+
+/*showcase  class*/
+
+
+.showcase{
+
+
+	background: url('file:///C:/Users/LENOVO/Desktop/websites/Clean/img/indian-flag-wallpapers-hd-1366x768.jpg') no-repeat;
+	height: 600px;
+	background-position: center;
+	padding: 140px 0px;
+	color: #fff;
+
+	}
+
+	.showcase h1{
+		color: white;
+
+		font-size: 40px;
+		font-weight: 700;
+		text-transform: uppercase;
+		background-color: orange; 
+
+
+			}
+
+.showcase hr{
+color: red;
+
+	width: 100px;
+	margin: auto;
+	border-width: 3px;
+	border-color: white;
+}		
+
+.showcase p{
+
+	font-size: 16px;
+
+	color: white;
+
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+	background-color: green; 
+
+}	
+
+
+/*section1 class*/
+
+
+
+.section{
+
+padding: 40px 0px;
+}	
+
+.section h1{
+
+	padding: 0px;
+	margin: 0px;
+}
+
+.section .fa{
+
+	font-size: 50px;
+}
+
+
+/*section3  class*/
+
+.section2 img{
+	width: 100%;
+	padding-right: -1000px;
+	margin-right: 10px;
+
+}
+
